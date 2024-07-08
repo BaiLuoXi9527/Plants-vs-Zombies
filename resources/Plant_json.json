@@ -1,0 +1,24 @@
+{
+    "engine": "Plant_json",
+    "version": "2.3.1",
+    "Plant_Name":
+    [
+        {
+            "Name":"Pea_Shooter",
+            "Money" :50,
+            "HP" :50
+        },
+
+        {
+            "Name":"Sun_Flower",
+            "Money" :100,
+            "HP" :50
+        },
+
+        {
+            "Name":"Wall_Nut",
+            "Money" :75,
+            "HP" :50
+        }
+    ]
+}
